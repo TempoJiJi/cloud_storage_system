@@ -3,21 +3,22 @@
 This is a virtual cloud storage system, every files and data stored in server is encrypted.
 Each user could only download their own file and decrypt it.
 
-## Server execution
+# Server execution
 
 ![](img/server.png)
 
-## Client execution
+# Client execution
 
-### Login Screen
+## Login
 ![](img/login.png)
 
-### Register Screen
+## Register
 ![](img/register.png)
 
-### Client program screen
+## After login
 ![](img/client.png)
 
-After uploaded a file named "a.txt"
+Every button is worked in the menu.
+After uploaded a file named "a.txt", it will show in the list
 
 ![](img/client2.png)
